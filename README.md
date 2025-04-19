@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 ¡Hola, soy Roberto Gallardo!<br><br>🎓 Estudiante de Ciencias de la Computación apasionado por el desarrollo de software y<br><br>    🌍 Remoto (trabajo colaborativo desde cualquier lugar).<br><br>🔥 Mi estilo:<br><br>    🧠 Autodidacta (siempre aprendiendo algo nuevo).<br><br>    🔍 Solucionador de problemas (bugs, algoritmos, whatever).<br><br>    💯 Dedicado (amo lo que hago y lo demuestro en código).<br><br>📫 ¿Quieres colaborar o charlar? ¡Hablemos!<br><br>void main() {  <br>  print("¡Construyendo el futuro, un commit a la vez! 💻🚀");  <br>}  
+🚀 ¡Hola, soy Roberto Gallardo!<br><br>🎓 Estudiante de Ciencias de la Computación apasionado por el desarrollo de software y<br><br>    🌍 Remoto (trabajo colaborativo desde cualquier lugar).<br><br>🔥 Mi estilo:<br><br>    🧠 Autodidacta (siempre aprendiendo algo nuevo).<br><br>    💯 Dedicado (amo lo que hago y lo demuestro en código).<br><br>📫 ¿Quieres colaborar o charlar? ¡Hablemos!<br><br>void main() {  <br>  print("¡Construyendo el futuro, un commit a la vez! 💻🚀");  <br>}  
 
 
 ## 🌐 Socials:
